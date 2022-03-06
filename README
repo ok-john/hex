@@ -1,0 +1,19 @@
+hex
+
+simple tool for hex encoding some stuff
+
+[USAGE]
+
+encoding:
+	hex [stuff]
+decoding:
+	hex -d [stuff]
+
+[BUILD]
+
+	make
+
+[INSTALL]	
+
+	sudo make install	
+
